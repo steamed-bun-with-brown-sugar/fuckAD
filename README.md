@@ -13,7 +13,7 @@ As Repository name said, this's  for using of fighting against those damn advert
 AIGC学习资料链接：https://pan.quark.cn/s/ca914e88bf72 <br>
 
 
-### 广告机构1
+### 广告机构2
 
 3W个AI绘画关键词链接: https://pan.baidu.com/s/1wD1YwYvulm7PaRHrLZVi3Q?pwd=1234 <br>
 2024最新4.9版本SD启动器下载链接：https://pan.quark.cn/s/ef98aeea9cce <br>
