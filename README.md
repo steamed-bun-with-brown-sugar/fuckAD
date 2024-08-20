@@ -5,8 +5,10 @@ As Repository name said, this's  for using of fighting against those damn advert
 > 明明关注微信公众号就已经给面子的，喵的还套娃绕来绕去
 
 
-秋叶4.9 整合包
-模型整合包链接：https://pan.quark.cn/s/bdf8df346905
-插件整合包链接：https://pan.quark.cn/s/448e5691b354
-AIGC学习资料链接：https://pan.quark.cn/s/ca914e88bf72
+## 秋叶4.9 整合包
 
+模型整合包链接：https://pan.quark.cn/s/bdf8df346905 <br>
+插件整合包链接：https://pan.quark.cn/s/448e5691b354 <br>
+AIGC学习资料链接：https://pan.quark.cn/s/ca914e88bf72 <br>
+
+## 其他资源
