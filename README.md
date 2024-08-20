@@ -29,3 +29,6 @@ https://www.amd.com/en/search/site-search.html#q=hip%20sdk <br>
 
 
 ## 其他资源
+
+2024最新AI学习知识点脑图：https://www.processon.com/view/link/650d85c2ec3841522691f8da
+密码：123456
