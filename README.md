@@ -7,8 +7,30 @@ As Repository name said, this's  for using of fighting against those damn advert
 
 ## 秋叶4.9 整合包
 
+### 广告机构1
 模型整合包链接：https://pan.quark.cn/s/bdf8df346905 <br>
 插件整合包链接：https://pan.quark.cn/s/448e5691b354 <br>
 AIGC学习资料链接：https://pan.quark.cn/s/ca914e88bf72 <br>
+
+
+### 广告机构1
+
+sd4广告ai绘画清欢（上班13.00）:
+3W个AI绘画关键词链接: https://pan.baidu.com/s/1wD1YwYvulm7PaRHrLZVi3Q?pwd=1234
+
+sd4广告ai绘画清欢（上班13.00）:
+2024最新4.9版本SD启动器下载链接：https://pan.quark.cn/s/ef98aeea9cce
+
+sd4广告ai绘画清欢（上班13.00）:
+秋叶整合包基础版链接：https://pan.baidu.com/s/1AlvVIkE2WHQ3kAB1F5k_-Q?pwd=HTXS 
+提取码：HTXS   解压密码bilibili@秋葉aaaki
+
+SDwin版：
+80G：https://pan.baidu.com/s/1CrvZQy5_t-fnrrPtvPUN0w?pwd=1234
+
+AMD显卡用户直接用秋叶基础版 然后去AMD官网下载 HIP SDK后再使用整合包
+https://www.amd.com/en/search/site-search.html#q=hip%20sdk
+
+
 
 ## 其他资源
